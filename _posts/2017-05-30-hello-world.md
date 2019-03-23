@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-05-30 18:16:06
 ---
-<img class="alignnone size-medium wp-image-262 alignleft" src="https://cading.expressions.syr.edu/wp-content/uploads/2017/05/DSC_8595-200x300.jpg" alt="" width="200" height="300" />I’m Caiwen Ding (丁才文), a Ph.D. candidate at the Department of Electrical and Computer Engineering, Northeastern University, supervised by Dr. Yanzhi Wang. My research interests include efficient implementations for deep learning and artificial intelligence systems, and efficient computing for cyber-physical systems and embedded systems. My work has been published in high-impact conferences (e.g., AAAI, MICRO,  HPCA, ASPLOS, FPGA, DATE, ISLPED, ASP-DAC, ICCD, etc.)
+<img class="alignnone size-medium wp-image-262 alignleft" src="https://cading.expressions.syr.edu/wp-content/uploads/2017/05/DSC_8595-200x300.jpg" alt="" width="200" height="300" />I’m Caiwen Ding (丁才文), a Ph.D. candidate at the Department of Electrical and Computer Engineering, Northeastern University, supervised by Dr. Yanzhi Wang. My research interests include efficient implementations for deep learning and artificial intelligence systems, and efficient computing for cyber-physical systems and embedded systems. My work has been published in high-impact conferences (e.g., AAAI, MICRO,  HPCA, ISCA, ASPLOS, FPGA, DATE, ISLPED, ASP-DAC, ICCD, etc.)
 
 My CV can be found here: <a href="https://cading.expressions.syr.edu/wp-content/uploads/2019/01/Caiwen_Ding_CV-456_new.pdf">Caiwen_CV</a>
 
