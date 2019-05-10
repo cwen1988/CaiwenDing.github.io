@@ -10,7 +10,7 @@ post_date: 2017-11-12 20:17:25
 ---
 &nbsp;
 
-05/2019 One paper is accepted in the 2019 ACM/IEEE International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>).
+05/2019 One paper is accepted in the 2019 ACM/IEEE International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), Full paper.
 
 03/2019 One paper is accepted in the 46th International Symposium on Computer Architecture (<strong>ISCA</strong>).
 
