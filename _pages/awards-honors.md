@@ -28,11 +28,11 @@ post_date: 2017-10-26 14:35:22
 <h2 style="text-align: center;">Activities</h2>
 </li>
  	<li>Reviewer, IEEE Transactions on Very Large Scale Integration Systems (TVLSI).</li>
- 	<li>External Reviewer,  ACM/IEEE Design Automation Conference (DAC), 2018, 2019</li>
+ 	<li>External Reviewer,  ACM/IEEE Design Automation Conference (DAC)</li>
  	<li>Subreviewer, 29th edition of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2019</li>
+ 	<li>Reviewer, IEEE International Midwest Symposium on Circuit and Systems (MWSCAS)</li>
  	<li>IEEE Access, IEEE</li>
  	<li>External Reviewer, Digital Signal Processing - Journal - Elsevier</li>
  	<li>Journal of Network and Computer Applications</li>
- 	<li>Reviewer, 60th IEEE International Midwest Symposium on Circuit and Systems (MWSCAS), 2017</li>
 </ul>
 <audio style="display: none;" controls="controls"></audio>
