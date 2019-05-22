@@ -10,6 +10,8 @@ post_date: 2017-11-12 20:17:25
 ---
 &nbsp;
 
+<span style="color: #ff0000;"><strong>05/2019 I will join as an Assistant Professor in the Department of Computer Science and Engineering at the University of Connecticut (UConn) in Fall 2019.</strong> </span><em style="color: #000000;">I am looking for high-motivated </em><em style="color: #000000;">Ph.D. students with fully-funded RAship. Please feel free to contact if you are interested.</em>
+
 05/2019 One paper is accepted in the 2019 ACM/IEEE International Symposium on Low Power Electronics and Design (<strong>ISLPED</strong>), Full paper.
 
 03/2019 One paper is accepted in the 46th International Symposium on Computer Architecture (<strong>ISCA</strong>).
