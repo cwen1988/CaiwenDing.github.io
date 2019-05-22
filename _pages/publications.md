@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-10-10 18:53:35
 ---
-Full <a href="https://scholar.google.com/citations?user=7hR0r_EAAAAJ&amp;hl=en" target="_blank" rel="noopener"><strong>publication list</strong></a>.
+<a href="https://scholar.google.com/citations?user=7hR0r_EAAAAJ&amp;hl=en">Full <strong>publication list</strong>.</a>
 
 <strong>Selected Journals</strong>
 <ul>
