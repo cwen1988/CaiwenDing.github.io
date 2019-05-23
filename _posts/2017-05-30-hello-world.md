@@ -13,7 +13,7 @@ post_date: 2017-05-30 18:16:06
 
 Email: ding.ca (AT) husky.neu.edu; <a href="https://scholar.google.com/citations?user=7hR0r_EAAAAJ&amp;hl=en">Google Scholar</a>  <a href="http://dblp.uni-trier.de/pers/hd/d/Ding:Caiwen">DBLP</a>
 
-<a href="http://www.ece.neu.edu/news/ece-phd-candidate-caiwen-ding-become-assistant-professor-university-connecticut"><span style="color: #ff0000;"><strong>I will join as an Assistant Professor in the Department of Computer Science &amp; Engineering at the University of Connecticut (UConn) in Fall 2019.</strong> </span></a><em style="color: #000000;">I am looking for high-motivated </em><em style="color: #000000;">Ph.D. students with fully-funded RAship. Please feel free to contact if you are interested.</em>
+<em style="color: #000000;"><span style="color: #ff0000;"><strong>I will join as an Assistant Professor in the Department of Computer Science and Engineering at the University of Connecticut (UConn) in Fall 2019</strong></span>. (<a href="http://www.ece.neu.edu/news/ece-phd-candidate-caiwen-ding-become-assistant-professor-university-connecticut">NEU COE News</a>) </em><em style="color: #000000;">I am looking for high-motivated </em><em style="color: #000000;">Ph.D. students with fully-funded RAship. Please feel free to contact if you are interested.</em>
 
 <a href="https://en.wikipedia.org/wiki/University_of_Connecticut">UConn is a flagship university that is ranked as the best public national university in New England and is tied for No. 18 in Top Public Schools and No. 56 in National Universities in the 2018 U.S. News &amp; World Report rankings.</a>
 
