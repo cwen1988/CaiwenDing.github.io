@@ -27,12 +27,17 @@ post_date: 2017-10-26 14:35:22
  	<li>Hwagain Academic Scholarship in Guangxi Universities, 2008
 <h2 style="text-align: center;">Activities</h2>
 </li>
- 	<li>Reviewer, IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</li>
- 	<li>External Reviewer,  ACM/IEEE Design Automation Conference (DAC)</li>
- 	<li>Subreviewer, 29th edition of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2019</li>
- 	<li>Reviewer, IEEE International Midwest Symposium on Circuit and Systems (MWSCAS)</li>
- 	<li>IEEE Access, IEEE</li>
- 	<li>External Reviewer, Digital Signal Processing - Journal - Elsevier</li>
+</ul>
+<strong>Reviewer</strong>
+<ul>
+ 	<li>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</li>
+ 	<li>ACM/IEEE Design Automation Conference (DAC)</li>
+ 	<li>The 29th edition of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2019</li>
+ 	<li>IEEE International Midwest Symposium on Circuit and Systems (MWSCAS)</li>
+ 	<li>IEEE Access</li>
+ 	<li>Digital Signal Processing - Journal - Elsevier</li>
  	<li>Journal of Network and Computer Applications</li>
+ 	<li>Neurocomputing</li>
+ 	<li>Journal on Emerging Technologies in Computing Systems</li>
 </ul>
 <audio style="display: none;" controls="controls"></audio>
