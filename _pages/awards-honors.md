@@ -30,14 +30,19 @@ post_date: 2017-10-26 14:35:22
 </ul>
 <strong>Reviewer</strong>
 <ul>
- 	<li>IEEE Transactions on Very Large Scale Integration Systems (TVLSI)</li>
- 	<li>ACM/IEEE Design Automation Conference (DAC)</li>
+ 	<li>IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2019</li>
+ 	<li>Neurocomputing, 2019</li>
+ 	<li>Integration, the VLSI Journal, 2019</li>
+ 	<li>Journal on Emerging Technologies in Computing Systems, 2019</li>
+ 	<li><span class="markhosqpfuwo" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">IEEE</span> <span class="marksckriofe6" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">Design</span> &amp; <span class="markdbaoedbik" data-markjs="true" data-ogac="" data-ogab="" data-ogsc="" data-ogsb="">Test, 2019</span></li>
+ 	<li>ACM/IEEE Design Automation Conference (DAC), 2019</li>
  	<li>The 29th edition of the ACM Great Lakes Symposium on VLSI (GLSVLSI), 2019</li>
- 	<li>IEEE International Midwest Symposium on Circuit and Systems (MWSCAS)</li>
- 	<li>IEEE Access</li>
- 	<li>Digital Signal Processing - Journal - Elsevier</li>
- 	<li>Journal of Network and Computer Applications</li>
- 	<li>Neurocomputing</li>
- 	<li>Journal on Emerging Technologies in Computing Systems</li>
+ 	<li>IEEE International Midwest Symposium on Circuit and Systems (MWSCAS), 2019</li>
+ 	<li>IEEE Access, 2019</li>
+ 	<li>Digital Signal Processing - Journal - Elsevier, 2018</li>
+ 	<li>Journal of Network and Computer Applications, 2018</li>
+ 	<li>Journal on Emerging Technologies in Computing Systems, 2018</li>
+ 	<li>ACM/IEEE Design Automation Conference (DAC), 2018</li>
+ 	<li>IEEE International Midwest Symposium on Circuit and Systems (MWSCAS), 2017</li>
 </ul>
 <audio style="display: none;" controls="controls"></audio>
