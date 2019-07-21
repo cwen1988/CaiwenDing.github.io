@@ -30,6 +30,7 @@ post_date: 2017-10-26 14:35:22
 </ul>
 <strong>Reviewer</strong>
 <ul>
+ 	<li>Embedded Systems Letters, 2019</li>
  	<li>IEEE Transactions on Industrial Electronics, 2019</li>
  	<li>IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2019</li>
  	<li>Neurocomputing, 2019</li>
